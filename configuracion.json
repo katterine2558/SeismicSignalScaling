@@ -1,0 +1,109 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/Katerine Arias/Documents/jeoprobe/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/Katerine Arias/Documents/jeoprobe/images/logo.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\requirements.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\images;images/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\customtkinter;customtkinter/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\numpy;numpy/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\gspread;gspread/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\getmac;getmac/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\pandas;pandas/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\xlsxwriter;xlsxwriter/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\PIL;PIL/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\openpyxl;openpyxl/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\jeoprobe\\.venv\\Lib\\site-packages\\numpy.libs;numpy.libs"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Katerine Arias/Documents/jeoprobe/service_account;service_account/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
